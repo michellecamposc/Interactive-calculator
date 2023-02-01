@@ -1,6 +1,6 @@
 ## Interactive Calculator
 
-El siguiente proyecto tiene como finalidad practicar los conceptos básicos de la librería de JavaScript, React con la cual se creó una calculadora.
+El siguiente proyecto tiene como finalidad practicar los conceptos básicos de React con la cual se creó una calculadora interactiva.
 
 ## Resultado final
 
